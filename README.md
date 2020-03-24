@@ -56,4 +56,4 @@ used Google Fonts for unique h1 font-family.
 
 #### Result
 
-[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/Css-Clip-Path-Exercise/)
+[Feel free to click here for the deployment!](https://ashraftajuddin.github.io/Css-ClipPath-Exercise/)
