@@ -52,7 +52,7 @@ used Google Fonts for unique h1 font-family.
 ### Resources
 
 - [CSS clip-path maker by Dave Desandro](https://bennettfeely.com/clippy/)
-- [Inspired from Ioannis's Project ](https://github.com/Ioannis-Kavalidis/clip-path-exercise)
+- [Design inspired from Ioannis's Project ](https://github.com/Ioannis-Kavalidis/clip-path-exercise)
 
 #### Result
 
